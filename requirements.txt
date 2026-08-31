@@ -1,0 +1,6 @@
+spacy
+transformers
+scikit-learn
+networkx
+cryptography
+python -m pip install -r requirements.txt
